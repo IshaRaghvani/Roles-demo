@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "customerId": 1,
+      "name": "Bruce Wayne",
+      "username": "admin",
+      "password": "admin",
+      "roleId": 1
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "name": "Tony Stark",
+      "username": "admin2",
+      "password": "admin2",
+      "roleId": 1
+    },
+    {
+      "id": 3,
+      "customerId": 3,
+      "name": "sales",
+      "username": "sales",
+      "password": "sales",
+      "roleId": 2
+    },
+    {
+      "id": 4,
+      "customerId": 4,
+      "name": "Oliver Queen",
+      "username": "agent",
+      "password": "agent",
+      "roleId": 3
+    },
+    {
+      "id": 5,
+      "customerId": 5,
+      "name": "Peter Parker",
+      "username": "user",
+      "password": "user",
+      "roleId": 4
+    }
+  ]
+  

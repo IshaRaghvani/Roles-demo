@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "roleName": "Admin",
+      "privilege": {
+        "canEdit": true,
+        "canDelete": true,
+        "canView": true
+      }
+    },
+    {
+      "id": 2,
+      "roleName": "Sales",
+      "privilege": {
+        "canEdit": true,
+        "canDelete": false,
+        "canView": true
+      }
+    },
+    {
+      "id": 3,
+      "roleName": "Agent",
+      "privilege": {
+        "canEdit": false,
+        "canDelete": false,
+        "canView": true
+      }
+    },
+    {
+      "id": 4,
+      "roleName": "User",
+      "privilege": {
+        "canEdit": false,
+        "canDelete": false,
+        "canView": false
+      }
+    }
+    
+  ]
+  
